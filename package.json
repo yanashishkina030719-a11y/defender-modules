@@ -1,0 +1,21 @@
+{
+  "name": "defender-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "http-server dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.5",
+    "html-webpack-plugin": "^5.6.8",
+    "http-server": "^14.1.1",
+    "mini-css-extract-plugin": "^2.10.2",
+    "webpack": "^5.112.2",
+    "webpack-cli": "^7.2.3"
+  }
+}
